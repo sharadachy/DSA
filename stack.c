@@ -4,8 +4,8 @@
 
 #define SIZE 4
 
-int top = -1, stack[SIZE];
-void push();
+int top = -1, stack[SIZE]; //initial condition
+void push(); // function decl..
 void pop();
 void show();
 
